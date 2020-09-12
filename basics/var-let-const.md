@@ -25,3 +25,4 @@ In ES8 (ECMAScript2017), `let` and `const` were born. So, what's the different?
 ---
 ### references
 - https://alligator.io/js/var-let-const/
+- https://github.com/lukehoban/es6features
