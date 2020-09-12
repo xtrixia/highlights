@@ -5,7 +5,7 @@
 ## javascript
 **basics**
 - [ ] [var, const, let](https://github.com/xtrixia/highlights/blob/master/basics/var-let-const.md)
-- [ ] `this`
+- [ ] [`this`](https://github.com/xtrixia/highlights/blob/master/basics/this.md)
 - [ ] closure
 
 **framework**
