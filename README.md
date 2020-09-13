@@ -6,7 +6,7 @@
 **basics**
 - [ ] [var, const, let](https://github.com/xtrixia/highlights/blob/master/basics/var-let-const.md)
 - [ ] [`this`](https://github.com/xtrixia/highlights/blob/master/basics/this.md)
-- [ ] closure
+- [ ] [closure](https://github.com/xtrixia/highlights/blob/master/basics/closure.md)
 
 **framework**
 - [ ] React
