@@ -4,9 +4,10 @@
 
 ## javascript
 **basics**
-- [ ] [var, const, let](https://github.com/xtrixia/highlights/blob/master/basics/var-let-const.md)
-- [ ] [`this`](https://github.com/xtrixia/highlights/blob/master/basics/this.md)
-- [ ] [closure](https://github.com/xtrixia/highlights/blob/master/basics/closure.md)
+- [ ] paradigms
+- [x] [var, const, let](https://github.com/xtrixia/highlights/blob/master/basics/var-let-const.md)
+- [x] [`this`](https://github.com/xtrixia/highlights/blob/master/basics/this.md)
+- [x] [closure](https://github.com/xtrixia/highlights/blob/master/basics/closure.md)
 
 **framework**
 - [ ] React
