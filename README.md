@@ -16,4 +16,4 @@
 
 **interview**
 
-links related to prepare the technical interview can be seen [here](https://github.com/xtrixia/highlights/blob/master/reference/links).
+links related to prepare the technical interview can be seen [here](https://github.com/xtrixia/highlights/blob/master/reference/links.md).
