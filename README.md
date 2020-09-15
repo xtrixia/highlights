@@ -3,7 +3,7 @@
 > [quoted](https://jamesclear.com/continuous-improvement)
 
 ## javascript
-**basics**
+**basic**
 - [ ] paradigms
 - [x] [var, const, let](https://github.com/xtrixia/highlights/blob/master/basics/var-let-const.md)
 - [x] [`this`](https://github.com/xtrixia/highlights/blob/master/basics/this.md)
@@ -13,3 +13,7 @@
 - [ ] React
     - [ ] lifecycle methods
     - [ ] hooks (useReducer, useCallback, useMemo)
+
+**interview**
+
+links related to prepare the technical interview can be seen [here](https://github.com/xtrixia/highlights/blob/master/reference/links).
