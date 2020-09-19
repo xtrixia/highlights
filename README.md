@@ -15,5 +15,5 @@
     - [ ] hooks (useReducer, useCallback, useMemo)
 
 **reference**
-- [x] [links](https://github.com/xtrixia/highlights/blob/master/reference/links.md)
+- [x] [technical interview](https://github.com/xtrixia/highlights/blob/master/reference/links.md)
 - [x] [bookmarks](https://github.com/xtrixia/highlights/blob/master/reference/bookmarks.md)
