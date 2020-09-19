@@ -14,6 +14,6 @@
     - [ ] lifecycle methods
     - [ ] hooks (useReducer, useCallback, useMemo)
 
-**interview**
-
-links related to prepare the technical interview can be seen [here](https://github.com/xtrixia/highlights/blob/master/reference/links.md).
+**reference**
+- [x] [links](https://github.com/xtrixia/highlights/blob/master/reference/links.md)
+- [x] [bookmarks](https://github.com/xtrixia/highlights/blob/master/reference/bookmarks.md)
