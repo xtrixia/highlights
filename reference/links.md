@@ -1,4 +1,6 @@
-# nailed your technical interview!
+# technical interview
+> basically a bunch of links to help you nailed the technical interview
+
 - https://github.com/sudheerj/javascript-interview-questions#coding-exercise
 - https://github.com/sudheerj/reactjs-interview-questions
 - https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
