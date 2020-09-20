@@ -53,3 +53,5 @@ console.log(i);
 ### references
 - https://alligator.io/js/var-let-const/
 - https://github.com/lukehoban/es6features
+
+[⬅️ table of contents](https://github.com/xtrixia/highlights)
