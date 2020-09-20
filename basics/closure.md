@@ -32,3 +32,5 @@ counter.increment(5); // 4
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures
 - https://www.youtube.com/watch?v=KJP1E-Y-xyo&feature=youtu.be&ab_channel=JSConf
+
+[⬅️ table of contents](https://github.com/xtrixia/highlights)
