@@ -65,3 +65,5 @@ console.log(fullName()); // Justin Bieber
 ### reference
 - https://medium.com/better-programming/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
 - https://codeburst.io/all-about-this-and-new-keywords-in-javascript-38039f71780c
+
+[⬅️ table of contents](https://github.com/xtrixia/highlights)
