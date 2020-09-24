@@ -2,6 +2,7 @@
 > basically a bunch of links to help you nailed the technical interview
 
 ### general
+- [Getting a Gig - Cassidy Williams](https://github.com/cassidoo/getting-a-gig)
 - [10 Interview Questions Every JavaScript Should Know - 
 Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [JavaScript Coding Exercise - Sudheer Jonna](https://github.com/sudheerj/javascript-interview-questions#coding-exercise)
