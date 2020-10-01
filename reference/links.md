@@ -1,6 +1,9 @@
 # technical interview
 > basically a bunch of links to help you nailed the technical interview
 
+### HR
+- [Questions You Should Ask Before Accepting The Job - Sanjeev](https://github.com/alexakasanjeev/Interviewee-Questions)
+
 ### general
 - [Getting a Gig - Cassidy Williams](https://github.com/cassidoo/getting-a-gig)
 - [10 Interview Questions Every JavaScript Should Know - 
@@ -8,6 +11,7 @@ Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-j
 - [JavaScript Coding Exercise - Sudheer Jonna](https://github.com/sudheerj/javascript-interview-questions#coding-exercise)
 - [Basic Technical Interview - InterviewThis](https://github.com/Twipped/InterviewThis)
 - [Programming Interview Courses, Blogs, & Questions Asked](https://www.interviewcake.com/)
+- [SDE Interview Questions](https://github.com/rishabh115/SDE-Interview-Questions)
 
 ### frontend
 - [Frontend Interview - Written by Frontend Engineer](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-Written-by-a-Frontend-Engineer)
