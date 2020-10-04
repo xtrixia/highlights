@@ -21,4 +21,7 @@ Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-j
 - [ReactJS Technical Interview](https://github.com/sudheerj/reactjs-interview-questions)
 - [Senior Frontend Interview Questions](https://careerkarma.com/blog/senior-front-end-developer-interview-questions/)
 
+### backend
+- [NodeJS Best Practice](https://github.com/goldbergyoni/nodebestpractices)
+
 [⬅️ table of contents](https://github.com/xtrixia/highlights)
