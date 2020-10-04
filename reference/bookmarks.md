@@ -10,6 +10,7 @@
 - [Design System Examples](https://designsystemsrepo.com/)
 - [Git Command Explorer (360° Cases)](https://gitexplorer.com/)
 - [HTML & CSS Cheatsheet, Playground, and Vocabulary](http://apps.workflower.fi/)
+- [Heights = Width, Pure CSS](https://mademyday.de/height-equals-width-with-pure-css/)
 
 ### games
 - [Flexbox Game #1 - Defense Tower](http://www.flexboxdefense.com/)
